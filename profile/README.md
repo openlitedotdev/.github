@@ -1,8 +1,8 @@
-<h1 align="center">Open Lite. <sup>Foundation</sup></h1><br>
+<h1 align="center">Open Lite <sup>Foundation</sup></h1><br>
 
 <p align="center">
   <a href="#">
-    <img src="../update-logo-openlite.png" alt="Open Lite Logo" width="250px">
+    <img src="../update-logo-openlite.png" alt="Open Lite Logo" width="200px">
   </a>
 </p>
 
