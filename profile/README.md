@@ -1,4 +1,4 @@
-<h1 align="center">Open Lite <a href="#">Foundation</a>.</h1><br>
+<h1 align="center">Open Lite. <sup>Foundation</sup></h1><br>
 
 <p align="center">
   <a href="#">
