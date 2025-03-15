@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="Node.js logo" height="140">
+    <img src="../update-logo-openlite.png" alt="Open Lite Logo" width="250px">
   </a>
 </p>
 
